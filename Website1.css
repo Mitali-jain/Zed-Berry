@@ -1,0 +1,112 @@
+.page1,.page3{
+    background-color: #ffe599;
+}
+.nav_bar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+   background-color: #ffe599;
+   border: 2px solid #ffe599;
+}
+.navbar{
+    margin-right: 10%;
+}
+.navbar-brand{
+    text-shadow: black 20% 20%;
+    padding: 0 5%;
+    font-family: 'Yellowtail', cursive;
+    font-size: 1.5rem;
+}
+.heading{
+    padding: 2% 5%;
+    line-height: 3;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 5rem;
+}
+h2{
+    font-family: 'Anton', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    margin: 20px 0;
+    text-decoration: underline;
+}
+.img{
+    margin: 0 10%;
+    padding-left: 10%;
+
+}
+.btn{
+    margin: 2% 2%;
+}
+.fab{
+    margin-right: 10px;
+}
+.offer1{
+    margin-right: 10%;
+    width: 20%;
+    height: 15%;
+    border-radius: 50%;
+}
+ .offer2{ 
+    margin-left: 10%;
+    width: 20%;
+    height: 15%;
+    border-radius: 50%;
+}
+.offer3{
+    margin-right: 10%;
+    width: 20%;
+    height: 10%;
+    border-radius: 50%;
+}
+.offers{
+    margin: 5% 10% 5% 15%;
+    line-height: 2rem;
+}
+.container-fluid{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.Testimonial_img{
+    margin: 20px 40%;
+    width: 20%;
+    border-radius: 100%;
+}
+#Testimonial_carousel{
+    background-color: #ffe599;
+    text-align: center;
+    
+}
+.testimonial_span{
+   text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Yellowtail', cursive;;
+}
+.carousel-control-prev{
+    color: black;
+}
+.carousel-control-next{
+    color:black;
+}
+.card_row{
+    background-color: white;
+}
+.card{
+    text-align: center;
+     padding: 50px 70px ;
+}
+.card-header{
+    color: white;
+    background-color: black;
+}
+.card-body{ 
+    background-color: #ffe599;
+    text-align: center;
+}
+.fa-buffer{
+        margin-bottom: 20px;
+}
